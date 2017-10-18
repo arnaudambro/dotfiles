@@ -1,33 +1,52 @@
 {
-  "detect_indentation": false,
-  "draw_white_space": true,
-  "ensure_newline_at_eof_on_save": true,
-  "update_check": false,
-  "folder_exclude_patterns":
-  [
-    "tmp",
-    "log",
-    ".git",
-    "_site",
-    ".bundle",
-    ".sass-cache",
-    "build"
-  ],
-  "highlight_modified_tabs": true,
-  "hot_exit": false,
-  "ignored_packages":
-  [
-    "Vintage"
-  ],
-  "remember_open_files": false,
-  "rulers":
-  [
-    80
-  ],
-  "tab_size": 2,
-  "translate_tabs_to_spaces": true,
-  "trim_automatic_white_space": true,
-  "trim_trailing_white_space_on_save": true,
-  "use_tab_stops": true,
-  "wordWrap": false
+	"bold_folder_labels": true,
+	"caret_extra_bottom": 2,
+	"caret_extra_top": 2,
+	"caret_extra_width": 1,
+	"caret_style": "wide",
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"detect_indentation": false,
+	"draw_white_space": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		"tmp",
+		"log",
+		".git",
+		"_site",
+		".bundle",
+		".sass-cache",
+		"build"
+	],
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+	"use_simple_full_screen": true,
+	"use_tab_stops": true,
+	"wide_caret": true,
+	"wordWrap": false
 }
